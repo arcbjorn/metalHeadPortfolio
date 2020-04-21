@@ -1669,8 +1669,6 @@ input, select, textarea {
 
 				#nav a.active:after {
 					border-bottom-width: 0.5em;
-					border-bottom-left-radius: 0.5em;
-					border-bottom-right-radius: 0.5em;
 				}
 
 		@media screen and (max-width: 980px) {
