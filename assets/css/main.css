@@ -1917,6 +1917,16 @@ input, select, textarea {
 						margin: 0.25em 0 0 0;
 					}
 
+					#main > .panel.intro header a {
+						text-decoration: none;
+						outline-style: none;
+					}
+
+					#main > .panel.intro header .icon {
+						color: #000;
+						margin-top: 1em;
+					}
+
 				@media screen and (max-width: 980px) {
 
 					#main > .panel.intro {
