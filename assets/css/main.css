@@ -1293,7 +1293,7 @@ input, select, textarea {
 	body {
 		/* background-image: url("images/overlay.png"), url("images/bg.jpg"); */
 		background-image: url("images/overlay.png");
-		background-color: #201d1d;
+		background-color: #151414;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
@@ -1586,7 +1586,7 @@ input, select, textarea {
 		#nav a {
 			position: relative;
 			display: inline-block;
-			color: #febd01;
+			color: #ff5500;
 			width: 1em;
 			height: 1em;
 			line-height: 0.9em;
@@ -1865,7 +1865,7 @@ input, select, textarea {
 						width: 2.75em;
 						height: 2.75em;
 						background: rgba(0, 0, 0, 0.75);
-						color: #febd01;
+						color: #ff5500;
 						text-align: center;
 						line-height: 2.75em;
 						font-size: 1.5em;
